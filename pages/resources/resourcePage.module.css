@@ -305,12 +305,12 @@
         height: 150px;
     }
     .resourceContainer {
-        height: min-content;
+        height: max-content;
     }
 
 
     .mainContainer {
-        height: 470vh;
+        height: 100%;
         width: 100vw;
     }
 
@@ -319,7 +319,7 @@
     }
 
     .procedureContainer {
-        height: 455vh;
+        height: 500vh;
         width: 100vw;
     }
 
